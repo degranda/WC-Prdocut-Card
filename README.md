@@ -10,9 +10,9 @@
 
 **Build with**
 
-    *Web Components Vanilla
-    *HTML
-    *CSS
+    * Web Components Vanilla
+    * HTML
+    * CSS
 
 ## How to use it 
 

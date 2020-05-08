@@ -1,10 +1,10 @@
 # Product Card
 
-![Alt text](./screenshots/desktop.png?raw=true "Desktop view")
+![Alt text](screenshots/desktop.png "Desktop view")
 
-![Alt text](./screenshots/tablet.png?raw=true "Tablet view")
+![Alt text](screenshots/tablet.png "Tablet view")
 
-![Alt text](./screenshots/mobile.png?raw=true "Mobile view")
+![Alt text](screenshots/mobile.png "Mobile view")
 
 ## Tech
 
